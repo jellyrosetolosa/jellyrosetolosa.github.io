@@ -16,7 +16,9 @@ p.small {
   font-size: 16px;
 }
 a,
-a:hover,
+a:hover {
+  color:gray;
+}
 a:focus,
 a:active,
 a.active {
